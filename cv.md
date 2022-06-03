@@ -9,10 +9,10 @@ ___
 My goal is to become a front-end developer. Priority: learn better JS and React. I have a little experience in freelancing. My strengths are self-control, discipline. ability to work in a team.
 ___
 ###__Skills__
-HTML
-CSS
-JavaScript
-GIT
+- HTML
+- CSS
+- JavaScript
+- GIT
 ___
 ###__Code Example__
 
@@ -31,12 +31,15 @@ ___
 I have a little experience in creating landing pages on a freelance basis, I also created websites for my own practice
 ___
 ###__Education/Courses__
+
 2022 Udemy, Ismail Huseynov
-Frontend developer in HTML, CSS and JavaScript
+: Frontend developer in HTML, CSS and JavaScript
+
 2022 Loftschool
-Web development, the course "Layout - quick start"
+: Web development, the course "Layout - quick start"
+
 2021 BeOnMax
-Full professional course of freelance-WordPress developer professions
+: Full professional course of freelance-WordPress developer professions
 ___
 ###__English language__
-My level at the moment is Pre-intermediate, I am learning English now
+My level at the moment is __Pre-intermediate__, I am learning English now
