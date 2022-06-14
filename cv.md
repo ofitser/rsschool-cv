@@ -7,7 +7,7 @@ GitHub: [ofitser](https://github.com/ofitser)
 Discord: ofitser#9399
 
 ---
-### __Aboit Me__
+### __About Me__
 My goal is to become a front-end developer. Priority: learn better JS and React. I have a little experience in freelancing. My strengths are self-control, discipline. ability to work in a team.
 
 ---
